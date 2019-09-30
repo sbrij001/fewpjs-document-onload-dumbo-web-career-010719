@@ -5,6 +5,5 @@ function domContentLoaded(){
 
 function updateDOM(event){
   let text = document.querySelector('#text');
-  text.innerHTML='This is really cool!';
   text.innerHTML='JavaScript is so cool. It lets me add text to my page programmatically.';
 }
